@@ -1,5 +1,5 @@
 import pytest
-from palindrom import *
+from src.palindrom import *
 
 def test_palindrom_correct():
     assert is_palindrom('kayak'), 'Kayak should be a palindrom'

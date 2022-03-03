@@ -1,5 +1,5 @@
 import pytest
-from first_function import *
+from src.first_function import *
 
 # Test 
 def test_wrong_answer():

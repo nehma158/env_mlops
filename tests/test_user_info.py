@@ -1,6 +1,6 @@
 import pytest
 import io
-from user_info import *
+from src.user_info import *
 
 # test user email
 def test_email_with_user_input_no_at_sign(monkeypatch):
