@@ -17,7 +17,7 @@ function get_hit_count(callback) {
 const app = express();
 app.get('/', (req, res) => {
   get_hit_count((count) => {
-    res.send('Hello World from Docker! I have been seen ' + count + ' times');
+    res.send('Hello DSTI! I have been seen ' + count + ' times');
   })
 });
 
