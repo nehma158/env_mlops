@@ -6,20 +6,6 @@ from pathlib import Path
 import pandas as pd
 import dvc.api
 
-#path='data/wine_original.csv'
-#repo=r'C:\Users\noah-\Documents\01-DSTI\MlOps\env_mlops'
-
-'''
-path = Path(sys.argv[1])
-if len(sys.argv)==2:
-    repo = os.getcwd()
-else:
-    repo = Path(sys.argv[2])
-
-version = 'v2'
-'''
-
-
 # default
 repo = os.getcwd()
 path = r'data/wine_original.csv'
