@@ -5,6 +5,9 @@ This is a small repository I created for the DevOps/MLOps class at DSTI
 
 ## Topics covered
 
+
+### 1. DevOps (week 1)
+
 1. Introduction to DevOps: 
 * Benefits
 * Lifecycle
@@ -27,3 +30,14 @@ This is a small repository I created for the DevOps/MLOps class at DSTI
 5. Containerization: 
 * Docker
 * Docker Compose
+
+
+### 2. MLOps (week 2)
+
+1. Introduction to MLOps:
+
+2. Versioning:
+* Data versioning
+* DVC
+
+3. Testing
