@@ -19,3 +19,6 @@ profile = ProfileReport(
 st.title("Pandas Profiling in Streamlit!")
 st.write(data)
 st_profile_report(profile)
+
+# Run with the command:
+# streamlit run 'c:\Users\noah-\Documents\01-DSTI\MlOps\env_mlops\src\pandas_profiling_streamlit.py'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/noah-/Documents/01-DSTI/MlOps/env_mlops/material/10.experiment-tracking/lab-resources/mlruns/0/4e3fb50f242e454986cdb2a510260c58/artifacts
+end_time: 1648044494624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 4e3fb50f242e454986cdb2a510260c58
+run_uuid: 4e3fb50f242e454986cdb2a510260c58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1648044494465
+status: 3
+tags: []
+user_id: Noah
