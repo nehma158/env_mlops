@@ -40,4 +40,8 @@ This is a small repository I created for the DevOps/MLOps class at DSTI
 * Data versioning
 * DVC
 
-3. Testing
+3. Experiment tracking: 
+* MLFlow
+
+4. Testing
+* Pytest + Pytest fixtures
