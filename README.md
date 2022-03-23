@@ -23,6 +23,7 @@ The course material was taken from [Adaltas repository](https://github.com/adalt
 3. Continous testing: 
 * Test-driven development (TDD)
 * Unit tests, functional tests, integration tests, e2e tests
+* Pytest
 
 4. Continuous integration and delivery: 
 * Automated testing
@@ -37,12 +38,8 @@ The course material was taken from [Adaltas repository](https://github.com/adalt
 
 1. Introduction to MLOps:
 
-2. Versioning:
-* Data versioning
-* DVC
+2. Data versioning with DVC
 
-3. Experiment tracking: 
-* MLFlow
+3. Experiment tracking with MLFlow
 
-4. Testing
-* Pytest + Pytest fixtures
+4. Testing / Pytest fixtures
