@@ -1,7 +1,8 @@
 # env_mlops
 
-This is a small repository I created for the DevOps/MLOps class at DSTI
+This is a repository I created for the DevOps/MLOps course at DSTI
 
+The course material was taken from [Adaltas repository](https://github.com/adaltas/dsti-mlops-2022-spring)
 
 ## Topics covered
 
