@@ -36,10 +36,12 @@ The course material was taken from [Adaltas repository](https://github.com/adalt
 
 ### 2. MLOps (week 2)
 
-1. Introduction to MLOps:
+1. Introduction to MLOps
 
 2. Data versioning with DVC
 
 3. Experiment tracking with MLFlow
 
 4. Testing / Pytest fixtures
+
+5. Deployement on Heroku with Flask
