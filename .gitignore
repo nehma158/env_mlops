@@ -1,5 +1,10 @@
 __pycache__
+*.pytest_cache
 
 .vs/
-.pytest_cache
+
+# environment
 env/
+
+# models
+*.bin
